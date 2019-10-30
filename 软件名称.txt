@@ -41,6 +41,25 @@ Bt-Panel: http://129.28.110.139:8888/f3565b01
 username: l47zetvi
 password: 466ea5d9
 
+查看用户名和邮箱地址：
+
+
+	$ git config user.name
+
+
+	$ git config user.email
+
+
+修改用户名和邮箱地址
+
+
+	$? git config --global user.name? "xxxx"
+
+
+	S? git config --global user.email? "xxxx"
+
+
+
 https://github.com/tcsvr/tcs.git
 
 git remote add origin git@github.com:tcsvr/tcs.git

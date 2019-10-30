@@ -1,0 +1,8 @@
+ 菜单栏:  文件 --> 首选项 --> 设置 --> 搜索 "files.autoGuessEncoding": false 
+ 修改配置
+
+        "files.autoGuessEncoding": false,
+
+ 改为
+
+        "files.autoGuessEncoding": true,
